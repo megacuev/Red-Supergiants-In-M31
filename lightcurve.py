@@ -1,5 +1,6 @@
 #Cenus of Red Supergiants in M31: Period fitting
 #Megan Cuevas 
+#11/1/2023: adding to git
 
 import numpy as np
 import os
